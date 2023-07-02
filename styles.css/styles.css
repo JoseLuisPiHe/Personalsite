@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  font-family: "Bree Serif", serif;
+  margin: auto;
+  text-align: center;
+  color: whitesmoke;
+
+  display: inline-block;
+}
+h2 {
+  font-size: 3em;
+  font-family: "Roboto Mono", monospace;
+}
+h3 {
+  font-size: 2em;
+  font-family: "Roboto Mono", monospace;
+}
+img {
+  height: 10em;
+}
+.skills {
+  flex-wrap: wrap;
+  display: flex;
+  height: fit-content;
+  justify-content: center;
+}
+.skill-row {
+  padding: 2rem;
+  margin: 2rem;
+}
+.d-block {
+  height: auto;
+}
+h5 {
+  color: white;}
+#carouselExampleCaptions {
+  margin: auto;
+  width: 30rem;
+}
+a {
+  margin: 20px;
+}
+#derechos-autor {
+  text-align: center;
+}
