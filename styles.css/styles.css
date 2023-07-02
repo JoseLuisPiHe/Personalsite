@@ -43,3 +43,8 @@ a {
 #derechos-autor {
   text-align: center;
 }
+p {
+  font-size: large;
+  text-align: justify;
+  margin: 50px;
+}
